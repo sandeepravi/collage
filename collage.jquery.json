@@ -4,7 +4,11 @@
     "description": "jQuery plugin to create a collage of a images",
     "keywords": [
         "images",
-        "collage"
+        "collage",
+        "ui",
+        "animation",
+        "effect",
+        "jquery"
     ],
     "version": "0.1.0",
     "author": {
