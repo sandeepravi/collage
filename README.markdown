@@ -1,14 +1,14 @@
 Collage
 =======
 
-jQuery plugin to display a list of images as a collage.
+jQuery plugin to display a images as a collage.
 
 
 Demo
 ====
 
 Checkout the demo [here](http://jsfiddle.net/fKAHC/1/).
- 
+
 
 Usage
 =====
@@ -32,7 +32,7 @@ The "div" tag surrounding the image is needed to style the images.
 Enhancements
 ===========
 
-There are other enhancements planned, including animations. Drop your ideas in the issues section and report bugs (if any) as well. 
+There are other enhancements planned, including animations. Drop your ideas in the issues section and report bugs (if any) as well.
 
 Feel free to fork and contribute.
 
