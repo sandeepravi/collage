@@ -10,7 +10,7 @@
         "effect",
         "jquery"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "Sandeep"
     },
@@ -29,7 +29,7 @@
     "bugs": "https://github.com/sandeepravi/collage/issues",
     "homepage": "https://github.com/sandeepravi/collage",
     "docs": "https://github.com/sandeepravi/collage",
-    "download": "https://github.com/sandeepravi/collage",
+    "download": "https://raw.github.com/sandeepravi/collage/master/jquery.collage.min.js,
     "dependencies": {
         "jquery": ">=1.5"
     }
