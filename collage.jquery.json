@@ -1,0 +1,32 @@
+{
+    "name": "collage",
+    "title": "jQuery Collage",
+    "description": "jQuery plugin to create a collage of a images",
+    "keywords": [
+        "images",
+        "collage"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Sandeep"
+    },
+    "maintainers": [
+        {
+            "name": "Sandeep",
+            "url": "http://sandeepravi.github.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/sandeepravi/collage/blob/0.1.0/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/sandeepravi/collage/issues",
+    "homepage": "https://github.com/sandeepravi/collage",
+    "docs": "https://github.com/sandeepravi/collage",
+    "download": "https://github.com/sandeepravi/collage",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}

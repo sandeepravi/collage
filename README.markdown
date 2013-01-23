@@ -54,8 +54,4 @@ Browser Compatibility
 Licensing
 =========
 
-Copyright &copy; 2012 [Sandeep Ravichandran](http://delusionalcode.wordpress.com), released under [MIT](http://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt) license.
-
-
-
-
+Copyright &copy; 2013 [Sandeep Ravichandran](http://sandeepravi.github.com), released under [MIT](https://github.com/sandeepravi/collage/blob/0.1.0/MIT-LICENSE.txt) license.
